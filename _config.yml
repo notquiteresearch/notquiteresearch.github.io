@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       Not Quite Research
+email:       notquiteresearch@gmail.com
+author:      NQR
+description: "It's like research, but... not quite."
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://notquiteresearch.com"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
