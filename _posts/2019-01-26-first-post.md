@@ -7,7 +7,7 @@ categories: jekyll pixyll
 ---
 
 
-# The survey question 
+### The survey question 
 
 Which of the following best describes your attitude towards a second referendum on Brexit?
 
@@ -17,7 +17,7 @@ Which of the following best describes your attitude towards a second referendum 
 - I didn't vote last time but will this time
 - I cannot vote
 
-# Why? 
+### Why? 
 
 [Debate](https://www.bbc.com/news/uk-politics-50303512) continues on about whether this upcoming general election will be an election on Brexit. 
 
